@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/studentH"
+        android:icon="@drawable/baseline_horizontal_rule_24"
+        android:title="Student"/>
+
+    <item
+        android:id="@+id/staffH"
+        android:icon="@drawable/baseline_horizontal_rule_24"
+        android:title="Staff"/>
+
+
+</menu>
